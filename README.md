@@ -1,9 +1,9 @@
 
 # Library Management System (C++)
 
-A fully functional, console-based Library Management System built entirely in C++.
+A terminal based Library Management System built entirely in C++.
 
-I created this project as a self-driven learning exercise to master Object-Oriented Programming (OOP) concepts in C++. By building this system from scratch, I gained practical experience in designing class hierarchies, managing memory, and implementing persistent data storage using standard file I/O.
+I created this project as a self  learning exercise to learn Object-Oriented Programming (OOP) concepts in C++. By building this system from scratch, I gained practical experience in designing class hierarchies, managing memory, and implementing persistent data storage using standard file I/O.
 
 ## Learning Journey: Mastering OOP
 
